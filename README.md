@@ -1,2 +1,2 @@
-# web
+web_dev_class_project
 assignment1.html
